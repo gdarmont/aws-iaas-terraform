@@ -1,0 +1,15 @@
+# Terraform
+.terraform
+*.tfstate
+*.tfstate.backup
+*.tfstate.*.backup
+
+# IntelliJ IDEA #
+.idea/
+*.iml
+
+#Logs#
+*.log
+
+# Compiled Python Files
+*.pyc
